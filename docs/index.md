@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Muco"
+  text: "My portfolio"
+  tagline: "6.1040 Edition"
   actions:
     - theme: brand
       text: Template Repository
