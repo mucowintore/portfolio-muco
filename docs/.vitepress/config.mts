@@ -10,15 +10,20 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "Blogs", link: "/blogs" },
+      { text: "Assignments", link: "/assignments"},
+      { text: "Blogs", link: "/blogs" }
     ],
 
-    sidebar: [
-      {
-        text: "Blogs",
-        link: "/blogs",
-      },
-    ],
+    // sidebar: [
+    //   {
+    //     text: "Assignments",
+    //     link: "/assignments",
+    //   },
+    //   {
+    //     text: "Blogs",
+    //     link: "/blogs",
+    //   },
+    // ],
 
     socialLinks: [{ icon: "github", link: "https://github.com/61040-fa24" }],
   },
