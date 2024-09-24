@@ -118,4 +118,12 @@ Collaboration note: I did not have collaborators during this brainstorming
 
 ## VSD Analysis
 
+## Storyboarding and sketching
+
+### Learning about culture through the video archive
+![storyboard_1](./looking_for_a_video.jpg)
+
+### Learning about language through quizzes
+![storyboard_1](./learn_kirundi_through_quizzes.jpg)
+
 
