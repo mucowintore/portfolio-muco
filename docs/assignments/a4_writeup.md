@@ -165,3 +165,9 @@ register(n: String, p: String, out u: User)<br>
 
 authenticate(username:String, password: String, out u:User)<br>
    u in registered<br>
+
+
+
+## Useful links
+- [Backend repository](https://github.com/mucowintore/61040-a4-backend)
+- [Vercel deployment](https://61040-a4-backend-seven.vercel.app/)
