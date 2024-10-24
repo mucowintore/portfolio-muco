@@ -13,7 +13,7 @@ My goal for this user study was for it to be simple enough to be prepared and ca
 
 I decided to conduct the user study with a friend of mine. As I was considering what app to test, my goal was to look for an app that I was quite familiar with but that my friend had not used in the past. I also ensured that he had not used another app similar in function before so that the experience be as novel to him as possible.
 
-<img src='./productive.png' width='300' style='float: left'/>
+<img src='./productive.png' width='300' style='float: left; margin-right: 20px'/>
 <br><br>
 
 I ended up choosing a habit-tracking app I use regularly called [Productive](https://productiveapp.io/). My friend had not used habit-tracking apps in the past, so I thought it would be a good candidate for the experiment. Productive enables users to easily track their habits and provides visually-pleasing statistics and helpful check-ins to keep you motivated.
@@ -23,7 +23,7 @@ For the user study, I asked my friend to perform three tasks:<br>
     - Log completion of that habit<br>
     - Access the habit statistics
 
-<br><br><br><br><br>
+<br><br><br><br><br><br><br>
 Right before we started, I made sure to do a couple of things:
 - I briefed my friend on what I was trying to achieve, and that the goal was not to evaluate him, but rather to evaluate the design of the app
 - Given that we conducted the user study remotely, we first did a technical check that involved having my friend share their phone screen via WhatsApp and open an app on their phone to make sure our setup worked properly and I could both see him and the app interface
