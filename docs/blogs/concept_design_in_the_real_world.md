@@ -9,7 +9,7 @@ Monday’s TA review session was a great way to go through the concept design pr
 
 ### Palantir's experiment with Concept Design
 
-The first example I read about was how Palantir integrated concept design into its development process. I came across the experiment in one of Daniel Jackson’s blogs, as well as a paper he co-authored that further details the experiment (both linked below).
+The first example I read about was how Palantir integrated concept design into its development process. I read about the experiment in one of Daniel Jackson’s blogs, as well as a paper he co-authored that further details the experiment (both linked below).
 
 Palantir harnessed concept design by surfacing the concepts that underly a wide range of its products, documenting those concepts into a centralized inventory, and making it widely accessible throughout the organization.
 
